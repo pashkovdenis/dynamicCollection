@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\DymanicContainer\DymanicContainer\bin\Debug\DymanicContainer.exe.config
+C:\Users\User\source\repos\DymanicContainer\DymanicContainer\bin\Debug\DymanicContainer.exe
+C:\Users\User\source\repos\DymanicContainer\DymanicContainer\bin\Debug\DymanicContainer.pdb
+C:\Users\User\source\repos\DymanicContainer\DymanicContainer\obj\Debug\DymanicContainer.csprojAssemblyReference.cache
+C:\Users\User\source\repos\DymanicContainer\DymanicContainer\obj\Debug\DymanicContainer.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\DymanicContainer\DymanicContainer\obj\Debug\DymanicContainer.exe
+C:\Users\User\source\repos\DymanicContainer\DymanicContainer\obj\Debug\DymanicContainer.pdb
